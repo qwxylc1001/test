@@ -1,0 +1,6 @@
+<script>
+  function ne(){
+    console.log('nihao')
+  }
+  ne()
+</script>
